@@ -1,4 +1,4 @@
-#vaspflow
+# vaspflow
 Vaspflow is a VASP calculation workflow for Tianhe-2. 
 ## How to run?
 1. First, you need to define the relative paths of the vasp execution file, pseudo-potential directory, etc. in the config/condor.ini file.
